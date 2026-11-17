@@ -1,0 +1,1 @@
+# smp-resourcepack\n\nResource pack for Paper 1.21.11 SMP: legendary weapons models, god armor, menus.\nReleases hold the distributable SMP-ResourcePack.zip.
